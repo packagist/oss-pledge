@@ -5,6 +5,12 @@
   "urlLearnMore": "https://blog.packagist.com/packagist-is-joining-the-open-source-pledge/",
   "annualReports": [
     {
+      "url": "https://blog.packagist.com/the-reality-of-funding-open-source/",
+      "dateYearEnding": "2024-12-31",
+      "averageNumberOfDevs": 5,
+      "payments": 26714
+    },
+    {
       "url": "https://blog.packagist.com/packagist-is-joining-the-open-source-pledge/",
       "dateYearEnding": "2023-12-31",
       "averageNumberOfDevs": 4,
